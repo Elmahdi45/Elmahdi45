@@ -15,6 +15,12 @@
 
 </div>
 
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Elmahdi45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -63,7 +69,7 @@ I am especially interested in backend development, relational database design, a
 | Project | Description | Main technologies |
 |---|---|---|
 | [🎓 University Management System](https://github.com/Elmahdi45/University_Management) | A full-stack academic management platform with authentication, role-based access control, students, teachers, modules, enrollments, teaching assignments, attendance, grades, and course materials. | React, Vite, Tailwind CSS, Node.js, Express, PostgreSQL, JWT |
-| [💬 Vibe Social App](https://github.com/Elmahdi45/vibe-social-app) | A social application project focused on building interactive user experiences and applying modern web-development skills. | JavaScript, React, Node.js |
+| [💬 Vibe Social App](https://github.com/Elmahdi45/vibe-social-app) | A social application focused on building interactive user experiences and applying modern web-development skills. | JavaScript, React, Node.js |
 
 ---
 
