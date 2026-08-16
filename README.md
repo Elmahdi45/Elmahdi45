@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Hi%2C+I'm+Elmehdi+Khardi+%F0%9F%91%8B;Aspiring+Software+Engineer;Full-Stack+Developer+%7C+Rabat%2C+Morocco;Always+learning%2C+always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1200&color=4F46E5&center=true&vCenter=true&width=560&height=45&lines=Hi%2C+I'm+Elmehdi+Khardi+%F0%9F%91%8B" alt="Typing SVG" />
 
-<br/>
+**Aspiring Software Engineer · Full-Stack Developer · Rabat, Morocco**
 
 <a href="https://www.linkedin.com/in/elmehdi-khardi-429422286/">
   <img src="https://img.shields.io/badge/LinkedIn-Elmehdi%20Khardi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -12,8 +12,6 @@
 </a>
 
 </div>
-
-<br/>
 
 ## 👨‍💻 About Me
 
@@ -54,18 +52,13 @@ I'm especially interested in backend development, relational database design, au
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Elmahdi45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Elmehdi's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmahdi45&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elmahdi45&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com?user=Elmahdi45&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elmahdi45&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 
 </div>
-
 
 ---
 
