@@ -66,7 +66,6 @@ I'm especially interested in backend development, relational database design, au
 
 </div>
 
-> 💡 If a stat card shows "no data" or looks empty, it's usually a temporary caching issue on the widget's free API — refreshing the page after a minute or two fixes it.
 
 ---
 
